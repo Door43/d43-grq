@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[grq:home|Door43 (grq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-grq|d43-grq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-grq/archive/master.zip|d43-grq.zip]]
+
+**Recent Changes**
+{{changes>ns = grq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/grq|Ethnologue data]]
+
